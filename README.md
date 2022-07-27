@@ -28,7 +28,7 @@ Full 3D game with modular weapoin system and PS1 graphics, includes the rewritte
 ### Python Game 
 ![](https://cdn.discordapp.com/attachments/816961724783525899/1001884192315027587/ezgif.com-gif-maker_1.gif)
 
-2D platformer engine written using pythong and pygame for rendering, the engine was entirely self written which includes the entity component system, camera, map, and rendering objects onto the screen.
+2D platformer engine written using python and pygame for rendering, the engine was entirely self written which includes the entity component system, camera, map, and rendering objects onto the screen.
 
 ### Mobile Development (React Native and Android Studio) ([link](https://github.com/Persona036/drinkandsing))
 ![](https://cdn.discordapp.com/attachments/816961724783525899/1001886241924591646/Screenshot_20220727-191744_Drink_and_Sing.jpg)
