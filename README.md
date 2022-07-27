@@ -1,7 +1,7 @@
 # Work-portfolio
 ## Hello my name is James Sayegh.
 
-Here are the projects i have worked on over the years:
+Here are the projects I have worked on over the years:
 
 ### Sand Simulation (Cellular automata) ([link](https://github.com/Persona036/SandSimulation))
 ![](https://cdn.discordapp.com/attachments/816961724783525899/1001874725372448798/ezgif-5-ee048d81ac.gif)
@@ -18,7 +18,7 @@ A fully interactable discord bot, with several features all managed by a command
 ### Portfolio Website (currently unhosted) ([link](https://github.com/Persona036/persona036.github.io))
 ![](https://cdn.discordapp.com/attachments/816961724783525899/1001880548978982964/unknown.png)
 
-This was a Portfolio website i had made to showcase all of my work, however due to several issues i am currently unable to host it.
+This was a Portfolio website I had made to showcase all of my work, however due to several issues I am currently unable to host it.
 
 ### Godot Game ([link](https://github.com/Persona036/Godot-Quake-wallrun-prototype))
 ![](https://cdn.discordapp.com/attachments/816961724783525899/1001883240094769193/ezgif.com-gif-maker.gif)
