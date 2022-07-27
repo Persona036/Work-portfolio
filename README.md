@@ -20,4 +20,14 @@ A fully interactable discord bot, with several features all managed by a command
 
 This was a Portfolio website i had made to showcase all of my work, however due to several issues i am currently unable to host it.
 
-###Godot Game ([link](https://github.com/Persona036/SandSimulation))
+### Godot Game ([link](https://github.com/Persona036/Godot-Quake-wallrun-prototype))
+![](https://cdn.discordapp.com/attachments/816961724783525899/1001883240094769193/ezgif.com-gif-maker.gif)
+
+Full 3D game with modular weapoin system and PS1 graphics, includes the rewritten QUAKE physics movement system. Showcase is a prototype as never got around finishing it.
+
+### Python Game 
+![](https://cdn.discordapp.com/attachments/816961724783525899/1001884192315027587/ezgif.com-gif-maker_1.gif)
+
+2D platformer engine written using pythong and pygame for rendering, the engine was entirely self written which includes the entity component system, camera, map, and rendering objects onto the screen.
+
+### Mobile Development (React Native and Android Studio) ([link](https://github.com/Persona036/drinkandsing))
