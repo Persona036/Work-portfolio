@@ -31,5 +31,11 @@ Full 3D game with modular weapoin system and PS1 graphics, includes the rewritte
 2D platformer engine written using pythong and pygame for rendering, the engine was entirely self written which includes the entity component system, camera, map, and rendering objects onto the screen.
 
 ### Mobile Development (React Native and Android Studio) ([link](https://github.com/Persona036/drinkandsing))
+![](https://cdn.discordapp.com/attachments/816961724783525899/1001886241924591646/Screenshot_20220727-191744_Drink_and_Sing.jpg)
 
 Making of a mobile app which handles a database of songs and allows you to search through them.
+
+### Linux
+![](https://cdn.discordapp.com/attachments/751179904954925066/952216533659185234/2022-02-19_16-22.png)
+
+Good understanding of setting up and using Linux, set up an entire arch linux install from scratch
